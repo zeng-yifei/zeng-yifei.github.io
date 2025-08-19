@@ -31,7 +31,7 @@ Leveraging multiview diffusion to generate consistent 4D objects in a creative w
 
 ## <span style="font-size: 24px;">***AvatarBooth***: High-Quality and Customizable 3D Human Avatar Generation</span>
 
-<img src="/images/AvatarBooth2.png" alt="AvatarBooth" style="float: left; margin-right: 20px; width: 280px;">
+<img src="/images/avatarbooth2.png" alt="AvatarBooth" style="float: left; margin-right: 20px; width: 280px;">
 
 ***Yifei Zeng***, Yanqin Jiang, Siyu Zhu, Yuanxun Lu, Youtian Lin, Hao Zhu, Weiming Hu, Xun Cao, Yao Yao<br>
 ***Arxiv 2023***<br>
