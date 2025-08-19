@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zengyifei"
+title                    : "Welcome"
 title_separator          : "-"
-name                     : &name "Zeng Yifei"
+name                     : &name "Yifei Zeng"
 description              : &description "making something fun"
 url                      : https://zeng-yifei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zeng Yifei"
-  avatar           : #"profile.png"
+  name             : "Yifei Zeng"
+  avatar           : "profile.png"
   bio              : #"Your biography for the left-hand sidebar"
   location         : "China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=qwrmvRQAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "zeng-yifei"
   google_plus      :
   keybase          :
   instagram        :
